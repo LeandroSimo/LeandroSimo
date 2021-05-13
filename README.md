@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/leandro-sim%C3%B5es-b8ab6393/" target="_blank"><img align="center" alt="flutter" height="40" width="40" src="https://image.flaticon.com/icons/png/128/1384/1384014.png"></a>
 <a href="https://www.instagram.com/leandrosf__/" target="_blank"><img align="center" alt="flutter" height="40" width="40" src="https://image.flaticon.com/icons/png/128/1384/1384015.png"></a>
 <a href="https://www.facebook.com/leandroordnaell/" target="_blank"><img align="center" alt="flutter" height="40" width="40" src="https://image.flaticon.com/icons/png/128/49/49354.png"></a>
-<a href="https://api.whatsapp.com/send?phone=5583988581229&text=Olá,%20tubo%20bem?." target="_blank"><img align="center" alt="flutter" height="40" width="40" src="https://image.flaticon.com/icons/png/128/1384/1384007.png"></a>
+<a href="https://api.whatsapp.com/send?phone=5583988581229&text=Olá,%20Leandro!" target="_blank"><img align="center" alt="flutter" height="40" width="40" src="https://image.flaticon.com/icons/png/128/1384/1384007.png"></a>
 
 ### Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
