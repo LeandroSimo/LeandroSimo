@@ -1,7 +1,7 @@
 ## Hi there, [Leandro!](https://LeandroSimo.github.io) 👋
 
 ### Hello, I'm Leandro Simões, a rising developer passionate about mobile and Front-End development.
-- I live in :brazil:, northeast :sunglasses::sunrise:
+- I live in :brazil: , northeast :sunglasses::sunrise:
 - I have been learnig more about Flutter <a><img align="center" alt="flutter" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg"></a>
 - Mobile and Front-End <a><img align="center" alt="flutter" height="20" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg"></a> 
 <a><img align="center" alt="flutter" height="20" width="20" src="https://image.flaticon.com/icons/png/128/518/518714.png"></a> 
