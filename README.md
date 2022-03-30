@@ -5,30 +5,34 @@
 - Indígena Potiguara :bow_and_arrow::leaves:
 
 ###  <i>Contate-me :</i>
-[<img align="left" alt="bilgehangecici | LinkedIn" width="40px" src="https://i1.wp.com/www.owlishcommunications.com/thewisdomzone/wp-content/uploads/LINKEDIN-LOGO-2-Animated-Pulsating.gif?resize=300%2C300&ssl=1"/>](https://www.linkedin.com/in/leandro-sim%C3%B5es-b8ab6393/)
-[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://media.giphy.com/media/6mXJk1rHd9KoTlkBjz/giphy.gif"/>](https://www.instagram.com/leandrosf__/)
-[<img align="left" alt="bilgehangecici | Facebook" width="40px" src="https://media1.giphy.com/media/IeRI0TleieCJ6ytPUr/200.gif"/>](https://www.facebook.com/leandroordnaell/)
-[<img align="left" alt="bilgehangecici | Facebook" width="40px" src="https://www.nevaskadistribuidora.com.br/img/whats.gif"/>](https://api.whatsapp.com/send?phone=5583988581229&text=Olá,%20Leandro!)
-<br><br>
-<!-- <a href="https://api.whatsapp.com/send?phone=5583988581229&text=Olá,%20Leandro!" target="_blank"><img align="center" alt="flutter" height="40" width="40" src="https://image.flaticon.com/icons/png/128/1384/1384007.png"></a> -->
+<div>
+  
+  <a href="https://api.whatsapp.com/send?phone=5583988581229&text=Olá,%20Leandro!" alt="WhatsApp" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5583988581229&text=Olá,%20Leandro!>"/></a>
+  <a href="https://www.linkedin.com/in/leandro-sim%C3%B5es-b8ab6393/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/leandrosf__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lsimoes1903@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  </div>
 
 ### <i>Linguagens e Ferramentas :<i>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="flutter" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="puthon" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://brandslogos.com/wp-content/uploads/images/django-logo.png" alt="django" width="35" height="35" style="max-width:100%;"></img>
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://camo.githubusercontent.com/0b375b572036ad83c2db159ee6a5f0199511125c43553bc4808a033d36c793b8/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f3933362f504e472f3531322f6769746875622d6c6f676f5f69636f6e2d69636f6e732e636f6d5f37333534362e706e67" alt="github" width="40" height="40" style="max-width:100%;"></img>
-<br></br>
-
-![Leandro github stats](https://github-readme-stats.vercel.app/api?username=LeandroSimo&show_icons=true&count_private=true&theme=onedark)
-  
-<a href="https://github.com/LeandroSimo/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSimo&layout=compact&theme=onedark" />
-</a>
-
+  <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'></img>
+  <img src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'></img>
+  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'></img>
+  <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'></img>
+  <img src='https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white'></img>
+  <img src='https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white'></img>
+  <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'></img>
+  <img src='https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white'></img>
+  <img src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white'></img>
+  <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></img>
+  <img src='https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white'></img>
+  <img src='https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white'></img>
+ 
+##
+<p align='center'>
+<a href="https://github.com/LeandroSimo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSimo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeandroSimo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</p>
 
 
 
