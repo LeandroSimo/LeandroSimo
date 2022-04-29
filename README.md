@@ -1,7 +1,7 @@
 ## Olá, sou o [Leandro!](https://LeandroSimo.github.io) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
 ### <i>Apaixonado por tecnologia e novos conhecimentos.<i>
-- Brasileiro :brazil: , litoral norte da Paraíba :sunglasses::sunrise:
+- :brazil: , litoral norte da Paraíba :sunglasses::sunrise:
 - Indígena Potiguara :bow_and_arrow::leaves:
 
 ###  <i>Contate-me :</i>
