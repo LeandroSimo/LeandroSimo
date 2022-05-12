@@ -1,4 +1,4 @@
-## Olá, sou o [Leandro!](https://LeandroSimo.github.io) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+## Eîkobé, Xe rera [Leandro!](https://LeandroSimo.github.io) <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 
 ### <i>Apaixonado por tecnologia e novos conhecimentos.<i>
   - BR , litoral norte da Paraíba :sunglasses::sunrise:
