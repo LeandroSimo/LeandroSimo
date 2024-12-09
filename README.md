@@ -13,7 +13,7 @@
   <a href="https://instagram.com/leandrosf__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lsimoes1903@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   </div>
-
+<!--
 ### <i>Linguagens e Ferramentas :<i>
   <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'></img>
   <img src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'></img>
@@ -28,6 +28,7 @@
   <img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></img>
   <img src='https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white'></img>
   <img src='https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white'></img>
+  -->
  
 ##
 <p align='center'>
